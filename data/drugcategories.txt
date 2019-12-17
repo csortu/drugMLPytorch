@@ -1,0 +1,27 @@
+Categories:
+ND: Non-drug
+SD: Soft drug
+HD: Hard drug
+HG: Hallucinogen
+
+Drugs:
+Alcohol: ND
+Amphet: HD
+Amyl: SD
+Benzos: SD
+Caff: ND
+Cannabis: HG
+Choc: ND
+Coke: HD
+Crack: HD
+Ecstasy: HD
+Heroin: HD
+Ketamine: HD
+Legalh: HG
+LSD: HG
+Meth: HG
+Mushrooms: HG
+Nicotine: ND
+Semeron: ND
+VSA: SD
+

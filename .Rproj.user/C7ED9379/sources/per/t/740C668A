@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575546443287.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4019146795",
+    "id" : "740C668A",
+    "lastKnownWriteTime" : 1575984490,
+    "last_content_update" : 1575984490125,
+    "path" : "~/Dropbox/Misc/HiDucator/DataScienceAcademy/Courses/Advanced_Python_for_datascience/AdvancedPythonPractice/shapeDrugData.R",
+    "project_path" : "shapeDrugData.R",
+    "properties" : {
+        "cursorPosition" : "127,0",
+        "scrollLine" : "114",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

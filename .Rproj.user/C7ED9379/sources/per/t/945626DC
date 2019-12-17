@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575546537934.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "945626DC",
+    "lastKnownWriteTime" : 7305804402363945825,
+    "last_content_update" : 1575546537934,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "947B2BBD",
+        "caption" : "drugData",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=drugData&cache_key=947B2BBD",
+        "displayedObservations" : "1885",
+        "environment" : "",
+        "object" : "drugData",
+        "preview" : "0",
+        "totalObservations" : "1885",
+        "variables" : "32"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
